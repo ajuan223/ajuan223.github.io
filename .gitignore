@@ -1,0 +1,31 @@
+# Libraries
+node_modules/
+
+# Generated static files
+public/
+
+# Editor config files
+.idea
+
+# Deploy cache files
+.deploy*/
+
+# Cache files
+db.json
+package-lock.json
+pnpm-lock.yaml
+.DS_Store
+Thumbs.db
+
+# Theme
+themes/*/.editorconfig
+themes/*/.eslintrc
+themes/*/.gitattributes
+themes/*/README_en.md
+themes/*/README.md
+themes/*/gulpfile.js
+themes/*/.github/
+
+# Others
+*.log
+_multiconfig.yml
