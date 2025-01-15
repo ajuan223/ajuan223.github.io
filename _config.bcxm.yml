@@ -627,7 +627,7 @@ aside:
       link: https://github.com/xxxxxx
   card_announcement:
     enable: true
-    content: "微信公众号: 小白一只手"
+    content: "welcome to my city"
   card_recent_post:
     enable: false
     limit: 5 # if set 0 will show all
@@ -654,6 +654,11 @@ aside:
     enable: true
     post_count: true
     last_push_date: false
+    sort_order: # Don't modify the setting unless you know how it works
+  card_collections:
+    enable: true
+    title: "系列合集" # 模块标题
+    icon: "fas fa-cubes" #模块标题前的图案
     sort_order: # Don't modify the setting unless you know how it works
 
 # busuanzi count for PV / UV in site
@@ -823,6 +828,7 @@ css_prefix: true
 inject:
   head:
     # - <link rel="stylesheet" href="/xxx.css">
+    - <link rel="stylesheet" href="/css/collections.css">
   bottom:
     # - <script src="xxxx"></script>
     <script type="text/javascript" src="https://fastly.jsdelivr.net/npm/leancloud-storage@4.10.0/dist/av-min.js"></script>
@@ -926,3 +932,4 @@ artitalk:
     serverURL: "自定义域名(国际版不要求备案,国内版必须备案)"
   front_matter:
     comments: false
+
