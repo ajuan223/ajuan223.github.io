@@ -3,10 +3,10 @@ l# Hexo Configuration
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 'NanPu HanYan'
-subtitle: 'inexsitent space'
+title: 'Nanpu Hanyan'
+subtitle: 'inexistent space'
 description: 'about my dear life and my study'
-keywords: dream, life, study
+keywords: 'dream, life, study'
 author: ajuan223
 language: zh-CN
 timezone: 'Asia/Shanghai'
