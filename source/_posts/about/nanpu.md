@@ -11,5 +11,7 @@ If I have time, I'll write down Hanyan's story as well. Or he would like to tell
 
 ### Four patriarchs
 
-In addition to the castle lord, there are four elders who are responsible for maintaining order in the city, and they are friends of the castle lord who has settled here since the early days of the city's existence.
-They have their own code names, and mine is wine. Because I needed wine instead of blood intake and always looked like I was drunk.
+In addition to the castle lord, there are four elders responsible for maintaining order in the city, who are the friends of the castle lord, settled here since the early days of the city's existence.  
+Each elder has a unique code name. Mine is 'Yun,' which means 'cloud' in English, symbolizing my faith in freedom, mystery, and sacredness.
+Although I needed wine instead of blood intake and always looked like I was drunk, 'wine' is the name of 'Shen Juan'. He runs a tavern.  
+The other two are codenamed Tea and Sugar, origin from their usual preferences.
