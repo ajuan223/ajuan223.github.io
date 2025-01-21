@@ -344,9 +344,9 @@ twikoo:
 # Giscus
 # https://giscus.app/
 giscus:
-  repo:
-  repo_id:
-  category_id:
+  repo: ajuan223/ajuan223.github.io
+  repo_id: R_kgDONpctZg
+  category_id: DIC_kwDONpctZs4CmIoh
   theme:
     light: light
     dark: dark
