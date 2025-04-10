@@ -55,6 +55,27 @@ prismjs:
   line_number: true
   tab_replace: ""
 
+markdown:
+  render:
+    html: true
+    xhtmlOut: false
+    breaks: true
+    linkify: true
+    typographer: true
+    quotes: '“”‘’'
+  plugins:
+    - markdown-it-footnote
+    - markdown-it-sup
+    - markdown-it-sub
+    - markdown-it-abbr
+    - markdown-it-emoji
+  anchors:
+    level: 2
+    collisionSuffix: 'v'
+    permalink: false
+    permalinkClass: header-anchor
+    permalinkSymbol: ¶
+
 # Home page setting
 # path: Root path for your blogs index page. (default = '')
 # per_page: Posts displayed per page. (0 = disable pagination)
