@@ -24,3 +24,19 @@ y=y_0\\
 \frac{x+\frac{1}{2}}{4}=\frac{y-\frac{1}{2}}{2}=\frac{z-1}{-1}
 \end{matrix}\right.
 $$
+
+$$5.设z=yf(xy,x-y)+g(x+y),其中f具有二阶连续的偏导数,g具有二阶导数,求:\frac{\partial z}{\partial x},\frac{\partial^2 z}{\partial x\partial y}.$$
+
+$$6.设z=z(x,y)是由方程yz^3-xz^4+z^5=1所确定的隐函数,求:\frac{\partial z}{\partial x}|_{(0,0)},\frac{\partial^2 z}{\partial x^2}|_{(0,0)}.$$
+
+$$7.叙述函数z=f(x,y)在点P_0(x_0,y_0)处的可微的定义,并研究函数f(x,y)=\sqrt{|xy|}在原点处的可微性.$$
+$$函数z=f(x,y)在点P_0(x_0,y_0)处可微的定义是:存在常数A和B,使得当自变量增量\Delta x和\Delta y趋近于零时，函数的全增量可表示为dz=Adx+Bdy+\circ((\Delta x)^2+(\Delta y)^2),其中余项满足当\rho\rightarrow0时,\frac{\circ\rho}{\rho}\rightarrow0.此时，A和B分别为函数f在点P_0处对x,y的偏导数.\\
+用极限形式表达,即lim_{(dx,dy)\rightarrow(0,0)}\frac{f(x_0+dx,y_0+dy)-f_x(x_0,y_0)-f'_x(x_0,y_0)dx−f'_y(x_0,y_0)dy}{\sqrt{(dx)^2+(dy)^2}}=0.\\
+当上述条件满足时，称函数f在点P_0处可微,其全微分为dz=f'_x(x_0,y_0)dx+f'_y(x_0,y_0)dy.$$
+    
+$$8.若变换\left\{\begin{matrix}u=x+ay\\v=x+by\end{matrix}\right.可将微分方程\frac{\partial^2z}{\partial x^2}+4\frac{\partial^2 z}{\partial x\partial y}+3\frac{\partial^2 z}{\partial y^2}=0简化为关于u,v的微分方程\frac{\partial^2z}{\partial u\partial v}=0,其中z具有二阶连续偏导数,求常数a,b的值.$$
+    1+4a+3a²=0
+    2+a+b+2ab=0
+    1+4b+3b²=0
+
+
