@@ -1,6 +1,7 @@
 ---
 title: 狂妄自大者的公正
 date: 2025-05-12 10:00:00
+tags: [aihrai]
 ---
 
 <font color=#ffaacc>宿命是无可奈何的抉择。</font>

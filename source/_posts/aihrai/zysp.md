@@ -1,6 +1,7 @@
 ---
 title: Justice Judgement
 date: 2025-05-11 14:00:00
+tags: [aihrai]
 ---
 <font color=#99CCFF>神啊，你说因果昭昭，原来只是漂亮话。</font>
 
