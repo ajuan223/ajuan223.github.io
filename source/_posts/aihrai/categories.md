@@ -3,8 +3,6 @@ title: aihrai
 date: 2025-05-13 10:00:00
 tags: [aihrai]
 categories: aihrai
-index_enable: true
-index_img: /_posts/aihrai/arc.png
 ---
 
 collections:
