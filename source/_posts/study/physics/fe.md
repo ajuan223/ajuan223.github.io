@@ -1,1 +1,0 @@
-$\int_0^\pi \sin^4x\cos nx dx$
